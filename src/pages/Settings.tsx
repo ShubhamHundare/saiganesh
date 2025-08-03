@@ -47,7 +47,7 @@ export default function Settings() {
                   <Label htmlFor="address">Address</Label>
                   <Textarea 
                     id="address" 
-                    defaultValue="123 Main Street, Mumbai, Maharashtra - 400001, India"
+                    defaultValue="Bhatwadi, Mumbai, Maharashtra - 400086, India"
                     rows={3}
                   />
                 </div>
