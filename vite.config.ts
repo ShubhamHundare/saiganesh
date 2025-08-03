@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base: '/saiganesh/',
   plugins: [
     react(),
     mode === 'development' &&
