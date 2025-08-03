@@ -186,7 +186,7 @@ const ContactBooking = () => {
             <h3 className="text-xl font-bold text-primary mb-4">Call Us</h3>
             <p className="text-muted-foreground mb-4">Speak with our travel experts</p>
             <div className="space-y-2">
-              <p className="text-lg font-semibold text-primary">+91 98765 43210</p>
+              <p className="text-lg font-semibold text-primary">+91 9892635155</p>
               <p className="text-muted-foreground">Mon - Sat: 9:00 AM - 8:00 PM</p>
             </div>
           </div>
@@ -211,7 +211,7 @@ const ContactBooking = () => {
             <p className="text-muted-foreground mb-4">Meet us in person</p>
             <div className="space-y-2">
               <p className="text-primary font-semibold">Sai Ganesh Tours & Travels</p>
-              <p className="text-muted-foreground">123 Main Street, Transport Nagar<br />Delhi - 110001</p>
+              <p className="text-muted-foreground">Bhatwadi, Ghatkpoar West<br />Mumbai - 400086</p>
             </div>
           </div>
         </div>
