@@ -64,7 +64,7 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-4">
             <Button variant="outline" size="sm">
               <Phone className="w-4 h-4" />
-              +91 98765 43210
+              +91 98926 35155
             </Button>
             <Button variant="book" size="sm" onClick={() => scrollToSection('booking')}>
               Book Now
@@ -117,7 +117,7 @@ const Header = () => {
               <div className="flex flex-col space-y-2 pt-4">
                 <Button variant="outline" size="sm">
                   <Phone className="w-4 h-4" />
-                  +91 98765 43210
+                  +91 98926 35155
                 </Button>
                 <Button variant="book" size="sm" onClick={() => scrollToSection('booking')}>
                   Book Now
